@@ -85,3 +85,8 @@ Cloud Native CI/CD  |  Enterprise Bitstream Assurance  |  Generative AI  |  Fir
 - Telecom Integration Engineer, Alcatel-Lucent Enterprise (Jan 2000– Dec 2001)
 
 - Long-Range Surveillance (LRS), Military, Oct 1987 – Jan 2008
+
+**Links**
+- https://huggingface.co/martinst68
+- https://github.com/mestadler
+- https://www.linkedin.com/in/martinestadler
