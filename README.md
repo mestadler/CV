@@ -30,11 +30,11 @@ Accomplished Senior Vice President with extensive leadership, product developmen
 
 **Skills:**
 
-Leadership & Engineering Management — Open-source Development — Generative AI Architecture — Cloud-Native Architecture — Open-Source Community Management — Strategic Planning & Execution — Go-to-Market Strategies — Product Development & Launch — Customer Retention and Growth — Partner & Stakeholder Engagement — Fundraising & Capital Raising — Acquisitions
+Leadership & Engineering Management  |  Open-source Development  |  Generative AI Architecture  |  Cloud-Native Architecture  |  Open-Source Community Management  |  Strategic Planning & Execution  |  Go-to-Market Strategies  |  Product Development & Launch  |  Customer Retention and Growth  |  Partner & Stakeholder Engagement  |  Fundraising & Capital Raising  |  Acquisitions
 
 **Technical Skills:**
 
-Cloud Native CI/CD —  Enterprise Bitstream Assurance — Generative AI — Firmware ACPI/UEFI — Virtualization — Containers — Toolchains — Kubernetes — OpenStack
+Cloud Native CI/CD  |  Enterprise Bitstream Assurance  |  Generative AI  |  Firmware ACPI/UEFI  |  Virtualization  |  Containers  |  Toolchains  |  Kubernetes  |  OpenStack
 
 **Professional Experience:**
 
