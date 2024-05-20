@@ -8,12 +8,9 @@ martin@sansnom.co | +447366855999
 
 Accomplished Senior Vice President with extensive leadership, product development, technical services, and strategic planning expertise, seeking to contribute to an innovative technology company.
 
-## Summary
+## Professional Summary
 
-- Proven leadership in open-source and enterprise software development.
-- Track record of leading high-performing teams, driving revenue growth, and enhancing customer experience.
-- Strategic thinker skilled in executing impactful go-to-market strategies and product launches.
-- Committed to continuous learning and implementing cutting-edge technologies for business success.
+Proven leader in open-source and enterprise software development with a track record of driving revenue growth and enhancing customer experiences. Skilled in executing impactful go-to-market strategies and product launches. Dedicated to continuous learning and implementing cutting-edge technologies for business success.
 
 ## Accomplishments
 
@@ -41,21 +38,22 @@ Accomplished Senior Vice President with extensive leadership, product developmen
 ## Technical Skills
 
 - Cloud Native CI/CD
-- Enterprise Bitstream Assurance
-- Generative AI
-- Firmware (ACPI/UEFI)
-- Virtualization
-- Containers (Docker, Podman, OCI, LXC)
-- Toolchains
+- Opensource Commericalization
+- Vulnerability Remidiation
+- Generative AI/LLM
 - Kubernetes
 - OpenStack
+- Containers (Docker, Podman, containerd, OCI, LXC)
+- Firmware (ACPI/UEFI)
+- Toolchains, CUDA, tensorflow
+
 
 ## Professional Experience
 
 **Senior Executive (Consulting)**  
 *ControlPlane*  
 **Jan 2023 – Present**
-
+t
 - Established a product offering for ControlPlane of the CNCF open-source project FluxCD.
 - Responsible for product management, go-to-market strategies, sales enablement, and overall product ownership.
 - Commercialised an open-source project aligned with Controlplane.io's security focus.
@@ -66,7 +64,7 @@ Accomplished Senior Vice President with extensive leadership, product developmen
 **Mar 2019 – Dec 2022**
 
 - Led teams dedicated to improving customer engagement and developing market-responsive products.
-- Product Owner of AI initiatives to enable enterprises to adopt AI at scale and security.
+- Product Owner of AI initiatives to enable enterprises to adopt AI at scale and securely.
 - Expanded technical knowledge in CI/CD, Generative AI, and Enterprise Bitstream Assurance, vital for implementing Cloud-Native Architecture.
 - Led software co-development teams with AWS, Azure, SAP, and Fidelity.
 
@@ -79,13 +77,13 @@ Accomplished Senior Vice President with extensive leadership, product developmen
 - Spearheaded the development of key components for a unified Aarch64 kernel, accelerating product development across multiple domains.
 
 **Head of Customer Experience, Customer Support and Professional Services**  
-*Canonical*  
+*Ubuntu Canonical*  
 **Jan 2011 – Mar 2015**
 
 - Expanded the Technical Services team from 4 to over 90 engineers.
 - Led the Canonical Cloud Architects team, delivering specialized services to major telecom and finance companies worldwide.
 - Managed OSS sustaining engineering for Ubuntu Cloud and Canonical projects.
-- Established technical services centres globally, China, Japan, United Kingdom, USA, Brazil.
+- Established technical services centres globally, including China, Japan, the United Kingdom, the USA, and Brazil.
 
 **Professional Services Practice Manager**  
 *Red Hat*  
@@ -122,8 +120,8 @@ Accomplished Senior Vice President with extensive leadership, product developmen
 
 ## Awards
 
-**Bronze Star (V)**
-**CIB**
+- Bronze Star (V)
+- CIB
 
 ## Links
 
