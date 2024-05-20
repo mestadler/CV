@@ -66,9 +66,9 @@ Accomplished Senior Vice President with extensive leadership, product developmen
 **Mar 2019 – Dec 2022**
 
 - Led teams dedicated to improving customer engagement and developing market-responsive products.
-- Initiated AI initiatives to enable enterprises to adopt AI at scale and security.
+- Product Owner of AI initiatives to enable enterprises to adopt AI at scale and security.
 - Expanded technical knowledge in CI/CD, Generative AI, and Enterprise Bitstream Assurance, vital for implementing Cloud-Native Architecture.
-- Led co-development teams with AWS, Azure, SAP, and Fidelity.
+- Led software co-development teams with AWS, Azure, SAP, and Fidelity.
 
 **Head of Engineering Datacenter & Cloud**  
 *Linaro*  
